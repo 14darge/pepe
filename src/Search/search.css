@@ -1,0 +1,61 @@
+.column {
+  background-color: rgba(38, 14, 104, 0.596);
+  color: #f2f2f2;
+}
+
+.logo {
+  padding-top: 10px;
+  padding-left: 7px;
+}
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.search {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 25px;
+}
+
+.browse {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 25px;
+}
+
+.your {
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 25px;
+}
+
+.playlist {
+  margin-top: 2px;
+}
+
+.recently {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.discover {
+  font-size: 18px;
+  font: bold;
+}
+
+.playlist {
+  font-size: 18px;
+}
+
+.install {
+    font-size: 25px;
+    margin-top: 150px;
+}
+
+.user {
+    font-size: 15px;
+}
