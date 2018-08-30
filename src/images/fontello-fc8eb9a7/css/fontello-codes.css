@@ -1,0 +1,6 @@
+
+.icon-play-outline:before { content: '\e800'; } /* '' */
+.icon-stop:before { content: '\e801'; } /* '' */
+.icon-pause-outline:before { content: '\e802'; } /* '' */
+.icon-fast-fw-outline:before { content: '\e803'; } /* '' */
+.icon-rewind-outline:before { content: '\e804'; } /* '' */

@@ -10,9 +10,9 @@ class Songs extends React.PureComponent {
             <p className="title">1.</p>
           </div>
           <div className="col-10 columnInfo">
-            <p className="title">Crush</p>
+            <p className="title">Summer Bummer</p>
             <div className="row">
-              <p className="songInfo">Tessa Violet - Crush Single</p>
+              <p className="songInfo">Lana del Rey ft. Asap Rocky, Playboi Carti</p>
             </div>
           </div>
           <div className="col-1 columnInfo">

@@ -1,5 +1,5 @@
 .songsColumn {
-    background: rgba(61, 14, 104, 0.493);
+    background-image: linear-gradient(to right, rgba(38, 14, 104, 0.596), rgba(61, 14, 104, 0.493));
 }
 
 .columnInfo {

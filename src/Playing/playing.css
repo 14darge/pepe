@@ -1,4 +1,18 @@
 .col-12{
-    background: black;
+    background-image: linear-gradient(to right, rgba(38, 14, 104, 0.596), rgba(61, 14, 104, 0.493));
     color: azure;
+    height: 120px;
 }
+
+.my-icon{
+    font-size: 50px;
+    margin-top: 15px;
+}
+
+.progress {
+    width: 50%;
+}
+
+.progress-bar {
+    width: 80%;
+} 
