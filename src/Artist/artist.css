@@ -1,0 +1,41 @@
+.artistColumn {
+    background: rgba(61, 14, 104, 0.493);
+}
+
+.artistImage {
+    margin: 70px 13.5px 20px 13.5px;
+}
+
+.artistName {
+    text-align: center;
+    margin-left: 1px;
+    color: #f2f2f2; 
+}
+
+.albumName {
+    text-align: center;
+    margin-left: 1px;
+    font-size: 20px;
+    margin-top: 0px; 
+    margin-bottom: 30px;
+    color: #f2f2f2;  
+}
+
+.songsNumber {
+    text-align: center;
+    margin-left: 1px;
+    font-size: 15px;
+    margin-bottom: 100px;
+    color: #f2f2f2;
+}
+
+.playButton {
+    background-color: rgb(17, 228, 17);
+    border-radius: 40px;
+    border: none;
+    color: #f2f2f2;
+    text-align: center;
+    font-size: 15px;
+    padding: 0px 30px;
+    margin-left: 34px;
+}

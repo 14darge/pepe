@@ -1,0 +1,18 @@
+.songsColumn {
+    background: rgba(61, 14, 104, 0.493);
+}
+
+.columnInfo {
+    margin-top: 70px;
+}
+
+.title {
+    color: #f2f2f2;
+    text-align: left;
+}
+
+.songInfo {
+    color: #f2f2f2;
+    text-align: left;
+    margin-left: 16px;
+}
