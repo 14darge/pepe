@@ -1,0 +1,14 @@
+#main {
+  padding-top: 11.2vh;  
+  padding-bottom: 13vh;
+}
+
+#main-row {
+  background-image: linear-gradient(
+    to right,
+    rgba(38, 14, 104, 0.897),
+    rgba(50, 18, 138, 0.822)
+  );  
+  height: 75.7vh;
+}
+  

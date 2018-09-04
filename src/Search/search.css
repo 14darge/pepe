@@ -1,70 +1,48 @@
-.column {
-  background-color: rgba(38, 14, 104, 0.596);
-  color: #f2f2f2;
-}
-
-.logo {
-  padding-top: 10px;
-  padding-left: 0px;
-  margin-bottom: 0px;
+.putada {
+  list-style-type: none;
+  padding: 0;
+  color: white;
 }
 
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  background-color: white;
-  box-shadow: 1px 1px 1px #f2f2f2;
+  background: #f2f2f2;
 }
 
-.search {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  font-size: 25px;
+#picture {
+  width: 40px;
+  border-radius: 10px;
+  height: 7vh;
 }
 
-.browse {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  font-size: 25px;
+#user-name {
+  color: #f2f2f2;
 }
 
-.your {
-  margin-top: 20px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  font-size: 25px;
+#search {
+  padding-top: 2.5vh;
+  line-height: 4vh;
+  font-size: 20px;
 }
 
-.playlist {
-  margin-top: 2px;
+#browse {
+  height: 8vh;
+  font-size: 20px;
 }
 
-.recently {
-  font-size: 12px;
-  margin-bottom: 20px;
+#your {
+  font-size: 20px;
 }
 
-.discover {
-  font-size: 18px;
-  font: bold;
+#recent {
+  font-size: 10px;
+  height: 4vh;
 }
 
-.playlist {
-  font-size: 18px;
+#discover{
+  font-size: 20px;
 }
 
-.install {
-    font-size: 25px;
-    margin-top: 250px;
-}
-
-.user {
-    font-size: 15px;
-    text-align: left;
-    padding-left: 0px;
-    margin-left: 0px;
-}
-
-.userImage {
-  border-radius: 50px;
+#playlist {
+  font-size: 10px;
+  height: 22.5vh;
 }

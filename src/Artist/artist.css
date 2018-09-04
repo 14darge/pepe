@@ -1,31 +1,28 @@
-.artistColumn {
-    background: rgba(38, 14, 104, 0.596);
-}
-
 .artistImage {
-    margin: 80px 13.5px 20px 40px;  
+    margin-top: 8vh;
+    margin-left: 3vh;  
 }
 
 .artistName {
     text-align: center;
     color: #f2f2f2; 
-    font-size: 25px;
+    font-size: 20px;
+    margin-top: 3vh;
 }
 
 .albumName {
     text-align: center;
     margin-left: 1px;
-    font-size: 20px;
-    margin-top: 0px; 
-    margin-bottom: 30px;
+    font-size: 15px;
+    margin-top: .6vh; 
+    margin-bottom: 1.8vh;
     color: #f2f2f2;  
 }
 
 .songsNumber {
     text-align: center;
-    margin-left: 1px;
-    font-size: 15px;
-    margin-bottom: 100px;
+    font-size: 14px;
+    margin-bottom: 2vh;
     color: #f2f2f2;
 }
 
@@ -36,9 +33,9 @@
     color: #f2f2f2;
     text-align: center;
     font-size: 15px;
-    padding: 20px 30px;
-    margin-left: 57px;
-    margin-top: 20px;
+    padding: 2.3vh 4vh;
+    margin-left: 5vh;
+    margin-top: 4vh;
 }
 
 .followButton {
@@ -46,7 +43,7 @@
     border: none;
     color: #f2f2f2;
     border-radius: 20px;
-    margin-left: 60px;
-    margin-top: 125px;
-    padding: 10px 30px;
+    margin-left: 6vh;
+    margin-top: 9vh;
+    padding: 1vh 4vh;
 }

@@ -1,18 +1,33 @@
-.col-12{
-    background-image: linear-gradient(to right, rgba(38, 14, 104, 0.596), rgba(61, 14, 104, 0.493));
-    color: azure;
-    height: 120px;
+.col-12 {
+  background-image: linear-gradient(
+    to right,
+    rgba(38, 14, 104, 0.897),
+    rgba(50, 18, 138, 0.822)
+  );
+  color: azure;
+  height: 13vh;
 }
 
-.my-icon{
-    font-size: 50px;
-    margin-top: 15px;
+.my-icon {
+  font-size: 40px;
 }
 
 .progress {
-    width: 50%;
+  width: 50%;
 }
 
 .progress-bar {
-    width: 80%;
-} 
+  width: 80%;
+}
+
+#mini-img{
+  margin-top: 2.5vh;
+}
+
+.mini-song{
+  margin-top: 3vh;
+}
+
+.mini-arts{
+  font-size: 1.2vh;
+}
