@@ -1,20 +1,21 @@
 #top {
-  background-image: linear-gradient(to right, rgba(38, 14, 104, 0.897), rgba(50, 18, 138, 0.822));
+  background-image: linear-gradient(
+    to right,
+    rgba(1, 22, 93, 0.897),
+    rgba(1, 22, 93, 0.897)
+  );  
   height: 11.1vh;
 }
 
 #logo {
-  margin-top: 2vh;
+  margin-top: 3vh;
   padding-left: 0vh;
 }
 
 #topMessage{
   text-align: center;
   color: #f2f2f2;
-  padding-top: 1.5%;
+  padding-top: 3.7vh;
   padding-right: 20%;
 }
 
-.anchini {
-  width: 60%;
-}

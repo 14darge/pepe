@@ -4,11 +4,16 @@
 }
 
 #main-row {
-  background-image: linear-gradient(
-    to right,
-    rgba(38, 14, 104, 0.897),
-    rgba(50, 18, 138, 0.822)
-  );  
+    background-image: linear-gradient(
+      to right,
+      rgba(1, 22, 93, 0.897),
+      rgba(1, 23, 93, 0.835),
+      rgba(1, 23, 93, 0.808),
+      rgba(1, 23, 93, 0.788),
+      rgba(1, 23, 93, 0.733),
+      rgba(1, 23, 93, 0.712),
+      rgba(1, 23, 93, 0.651)
+    ); 
   height: 75.7vh;
 }
   

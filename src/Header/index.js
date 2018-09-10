@@ -1,7 +1,6 @@
 import * as React from "react";
 import "./header.css";
 import logo from "../images/spotify-logo.png";
-import face from "../images/yao-ming.png";
 
 class Header extends React.PureComponent {
   render() {
