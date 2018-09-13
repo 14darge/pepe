@@ -5,13 +5,21 @@ import Artist from "../Artist";
 import "react-perfect-scrollbar/dist/css/styles.css";
 import PerfectScrollbar from "react-perfect-scrollbar";
 
+
 class Search extends React.PureComponent {
+
   render() {
     return (
       <div className="col-2">
         <PerfectScrollbar className="anchini">
           <ul className="putada">
-            <li id="search">Search</li>
+            <input
+              type="text"
+              placeholder="Search"
+              onChange={this.props.changeHandler}
+              value={this.props.searchTerm}
+              id="search"
+            />
             <hr />
             <li id="browse">Browse</li>
             <li id="your">Your Music</li>

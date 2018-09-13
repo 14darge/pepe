@@ -7,8 +7,37 @@ import Search from "../Search";
 //import "react-perfect-scrollbar/dist/css/styles.css";
 //import PerfectScrollbar from "react-perfect-scrollbar";
 import "./dashboard.css";
+import songsList from "../songsList.json";
 
 class Dashboard extends React.PureComponent {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      search: "",
+      filteredSongs: songsList
+    };
+
+    this.handleChange = this.handleChange.bind(this);
+    this.filterSongs = this.filterSongs.bind(this);
+  }
+
+  handleChange = event => {
+    this.setState({
+      search: event.target.value
+    });
+    this.filterSongs()
+  };
+
+  filterSongs() {
+    const ok = songsList.filter(rolas =>
+      rolas.song.toLowerCase().includes(this.state.search.toLowerCase())
+    );
+    this.setState({
+      filteredSongs: ok
+    });
+  } 
+
   render() {
     return (
       <div id="main">
@@ -17,9 +46,12 @@ class Dashboard extends React.PureComponent {
         </div>
         <div className="container-fluid">
           <div className="row" id="main-row">
-            <Search />
+            <Search
+              changeHandler={this.handleChange}
+              searchTerm={this.state.search}
+            />
             <Artist />
-            <Songs />
+            <Songs displaySongs={this.state.filteredSongs} />
           </div>
         </div>
         <Playing />

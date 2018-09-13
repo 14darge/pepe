@@ -1,0 +1,82 @@
+[
+    {
+        "song": "My Propeller",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:27",
+        "track": "1."
+    },
+    {
+        "song": "Crying Lighting",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:43",
+        "track": "2."
+    },
+    {
+        "song": "Dangerous Animals",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:30",
+        "track": "3."
+    },
+    {
+        "song": "Secret Door",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:43",
+        "track": "4."
+    },
+    {
+        "song": "Potion Approaching",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:32",
+        "track": "5."
+    },
+    {
+        "song": "Fire And The Thud",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:57",
+        "track": "6."
+    },
+    {
+        "song": "Cornerstone",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:18",
+        "track": "7."
+    },
+    {
+        "song": "Dance Little Liar",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "4:43",
+        "track": "8."   
+    },
+    {
+        "song": "Pretty Visitors",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "3:40",
+        "track": "9."
+    },
+    {
+        "song": "The Jeweller's Hands",
+        "artist": "Arctic Monkeys",
+        "album": "Humbug",
+        "year": "2009",
+        "duration": "5:42",
+        "track": "10."
+    }
+]
